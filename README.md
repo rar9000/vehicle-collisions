@@ -18,65 +18,65 @@ I have jupyter notebooks you can open to see how I came to my conclusions. One f
 
 Questions and answers
 
-Q:Overall collisions for 2019-2020?
-A: 48,005
+- Q:Overall collisions for 2019-2020?
+- A: 48,005
 
-Q: Total number of deaths?
-A: 217
+- Q: Total number of deaths?
+- A: 217
 
-Q: Roads with most collisions?
-A: Dixie, Bardstown, Shelbyville
+- Q: Roads with most collisions?
+- A: Dixie, Bardstown, Shelbyville
 
-Q: Deadliest roads?
-A: Dixie, I64 W, Preston
+- Q: Deadliest roads?
+- A: Dixie, I64 W, Preston
 
-Q: Intersection with most collisions?
-A: 7th Street and Hill Street 
+- Q: Intersection with most collisions?
+- A: 7th Street and Hill Street 
 
-Q: What make and model of vehicle is involved in the most collisions?
-A: Toyota Camry
+-Q: What make and model of vehicle is involved in the most collisions?
+-A: Toyota Camry
 
-Q: Most common weather condition for collision?
-A: Clear
+- Q: Most common weather condition for collision?
+- A: Clear
 
-Q: Most common weather when collision results in a death?
-A: Clear (Snow almost a non factor)
+- Q: Most common weather when collision results in a death?
+- A: Clear (Snow almost a non factor)
 
-Q: How many cars typically involved in a collision? 
-A: Typically at least two vehicles involved and only one involved coming in 2nd  
+- Q: How many cars typically involved in a collision? 
+- A: Typically at least two vehicles involved and only one involved coming in 2nd  
 
-Q: Most cars involved in a collision?
-A: On two occasions 8 vehicles involved in a single collision 
+- Q: Most cars involved in a collision?
+- A: On two occasions 8 vehicles involved in a single collision 
 
 Covid 
 
-Q: How many collisions before covid from March 16, 2019 - December 31, 2019
-(Gov. Andy Beshear implemented Covid restrictions beginning March 16, 2020)
-A: 26,418 collisions
+- Q: How many collisions before covid from March 16, 2019 - December 31, 2019
+- (Gov. Andy Beshear implemented Covid restrictions beginning March 16, 2020)
+- A: 26,418 collisions
 
-Q: How many collisions during covid from March 16, 2020 - December 31, 2020
-A: 9,487 collisions
+- Q: How many collisions during covid from March 16, 2020 - December 31, 2020
+- A: 9,487 collisions
 
-Q: What percentage did collisions drop during Covid?
-A: 54%
+- Q: What percentage did collisions drop during Covid?
+- A: 54%
 
-Q: What days of the week had the most and least collisions before Covid?
-A: most - Friday 4,497 
-   least - Sunday 2,545
-Q: Percent change?
-A: 55%
+- Q: What days of the week had the most and least collisions before Covid?
+- A: most - Friday 4,497 
+   - least - Sunday 2,545
+- Q: Percent change?
+- A: 55%
 
-Q: Worst time to drive for Friday before Covid?
-A: 5:00-6:00pm (rush hour!)
+- Q: Worst time to drive for Friday before Covid?
+- A: 5:00-6:00pm (rush hour!)
 
-Q: What days of the week had the most and least collisions during Covid?
-A: most - Friday 1,496 
-   least - Sunday 1,227
-Q: Percent change?
-A: 20% (much smaller change) 
+- Q: What days of the week had the most and least collisions during Covid?
+- A: most - Friday 1,496 
+   - least - Sunday 1,227
+- Q: Percent change?
+- A: 20% (much smaller change) 
 
-Q: Worst time to drive for Friday during Covid?
-A: 5:00-6:00pm (rush hour again!)
+- Q: Worst time to drive for Friday during Covid?
+- A: 5:00-6:00pm (rush hour again!)
 
 
 
