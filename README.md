@@ -33,8 +33,8 @@ Questions and answers
 - Q: Intersection with most collisions?
 - A: 7th Street and Hill Street 
 
--Q: What make and model of vehicle is involved in the most collisions?
--A: Toyota Camry
+- Q: What make and model of vehicle is involved in the most collisions?
+- A: Toyota Camry
 
 - Q: Most common weather condition for collision?
 - A: Clear
